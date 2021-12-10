@@ -1,0 +1,186 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Boogaloo&family=Bowlby+One&family=Bowlby+One+SC&family=Just+Another+Hand&family=Luckiest+Guy&family=Roboto+Condensed:wght@300&family=Titan+One&family=Waiting+for+the+Sunrise&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Boogaloo&family=Bowlby+One&family=Bowlby+One+SC&family=Just+Another+Hand&family=Luckiest+Guy&family=Passion+One:wght@700&family=Roboto+Condensed:wght@300&family=Titan+One&family=Waiting+for+the+Sunrise&display=swap');
+
+.homebigwords {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Boogaloo', cursive;
+    font-family: 'Bowlby One', cursive;
+    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Just Another Hand', cursive;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Passion One', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Titan One', cursive;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    background-color: rgb(188, 194, 188);
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: -120px;
+    left: 15px;
+}
+
+.boutmebigwords {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Boogaloo', cursive;
+    font-family: 'Bowlby One', cursive;
+    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Just Another Hand', cursive;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Passion One', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Titan One', cursive;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    background-color: rgb(188, 194, 188);
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    font-size: medium;
+}
+
+.smallwords {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Boogaloo', cursive;
+    font-family: 'Bowlby One', cursive;
+    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Just Another Hand', cursive;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Titan One', cursive;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.boldit {
+    font-weight: bold;
+}
+
+.dontbold {
+    font-weight: normal;
+}
+
+.linkit {
+    color: rgb(255, 136, 0);
+    left: 10px;
+    font-size: large;
+    text-align: left
+}
+
+.coralit {
+    color: coral;
+}
+
+.byuimage {
+    float: right;
+    margin: 6px -40px 6px 15px;
+    height: 350px;
+    width: 350px;
+}
+
+.fixforbyu {
+    right: 25px;
+    position: relative;
+}
+
+.meimage {
+    position: absolute;
+    top: 300px;
+    left: 900px;
+    width: 400px;
+    height: 400px;
+}
+
+.sunflower {
+    position: absolute;
+    top: 135px;
+    left: 950px;
+    width: 200px;
+    height: 150px;
+}
+
+.fullimageplant {
+        /* The image used */
+        background-image: url("../assets/Images/simpleplant.jpeg");
+      
+        /* Full height */
+        height: 100%;
+      
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.fullimagetree {
+    /* The image used */
+    background-image: url("../assets/Images/orangetree.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.boxit {
+    background-color: white;
+    padding: 40px;
+}
+
+.onpageanchorstuff {
+    background-color: rgb(255, 123, 0);
+    padding: 7px;
+    color: white;
+    position: absolute;
+    left: 25px;
+}
+
+.eduanchor {
+    top: 250px;
+}
+
+.expanchor {
+    top: 300px;
+}
+
+.skillsanchor {
+    top: 350px;
+}
+
+.textonright {
+    text-align: right;
+}
+
+.homefoot {
+    color: black;
+}
+
+.homebodypad{
+    padding-top: 170px;
+}
+
+.boutmebodypad {
+    padding-top: 500px;
+}
+
+.borderimg {
+    border-image: 5px;
+    border-color: rgb(255, 123, 0);
+  }
+
+.linkstuff {
+    font-size: medium;
+}
+
+.footback {
+    background-color: white;
+    padding: 2px;
+}
